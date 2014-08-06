@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Birthday Paradox Calculator</string>
+    <string name="result">0</string>
+    <string name="text_top">Amount of People in a given group</string>
+    <string name="text_bottom">Probability that two people share the same Birthday</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
